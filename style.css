@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* font-family: "Fira Sans", sans-serif; */
+.body{
+    background: rgba(245, 245, 245, 1);
+}
+.nav {
+    width: 1565px;
+    height: 100px;
+    padding: 24px 160px 24px 160px;
+}
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-container p {
+    color: rgba(14, 14, 14, 1);
+    font-family: Fira Sans;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+.nav-container span{
+    padding: 15px 30px 15px 30px;
+    border: 1px solid rgba(0, 106, 80, 1);
+    border-radius: 8px;
+    color: rgba(0, 106, 80, 1);
+    font-family: Fira Sans;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 100%;
+}
+
+.hero-1{
+    margin: 20px 160px 80px 160px;
+    border-radius: 24px;
+    background: rgba(198, 228, 214, 1);
+    padding: 80px 100px 80px 60px;
+}
+.hr1-container{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.hr1-div{
+    width: 55%; 
+    padding-top: 37px;
+}
+.hr1-div p{
+    color: rgba(14, 14, 14, 0.5);
+    font-family: Fira Sans;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 100%;
+}
+.hr1-div h1{
+    color: rgba(14, 14, 14, 1);
+    font-family: Fira Sans;
+    font-size: 70px;
+    font-weight: 700;
+    margin-top: 16px;
+    line-height: 120%;
+}
+.hero-btn1{
+    padding: 17px 34px 17px 34px;
+    border-radius: 8px;
+    background: rgba(0, 106, 80, 1);
+    color: rgba(255, 255, 255, 1);
+    font-family: Fira Sans;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 100%;
+    margin-bottom: 37px;
+}
+.hr2-div{
+    width: 45%; 
+}
+.hr2-div .ext-div img { width: 100%;
+    padding-left: 64px;
+}
+
