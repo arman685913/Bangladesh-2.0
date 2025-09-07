@@ -472,3 +472,16 @@ nav {
     margin-top: 24px;
 }
 /* footer */
+
+.footer{
+    background: rgba(255, 255, 255, 1);
+    padding: 50px 160px;
+    text-align: center;
+}
+.footer h1 {
+    color: rgba(14, 14, 14, 1);
+    font-family: Fira Sans;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 100%;
+}
